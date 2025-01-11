@@ -1,7 +1,7 @@
 //defining vars
-let nameOfbot = prompt("Name of bots: ")
-let gameId = prompt("Enter Game Pin: ");
-let numberOfBots = prompt("How many Bots: ")
+let nameOfbot = prompt("ngga: ")
+let gameId = prompt("7971751: ");
+let numberOfBots = prompt("14 ")
 let botsToJoin;
 
 //Credit
